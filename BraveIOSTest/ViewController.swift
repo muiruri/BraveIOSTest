@@ -84,8 +84,8 @@ class ViewController: UIViewController, CLLocationManagerDelegate {
                         let temp = main["temp"] as! Double
                         let fah = temp * 33.8
                         DispatchQueue.main.async{
-                            self.celsiusLabel.text = "\(temp) c"
-                            self.fahrenLabel.text = "\(fah)F"
+                            self.celsiusLabel.text = "\(temp)c"
+                            self.fahrenLabel.text = "\(Double(round(100 * fah)/100))F"
                         }
                     }
                     
