@@ -15,3 +15,6 @@ To run the application on a device :
 * Connect a device to the machine and select it from device selection list
 * From the menu bar, select Product -> Run
 
+## Screenshot
+
+![Screenshot](https://github.com/muiruri/BraveIOSTest/blob/master/Screenshots/IMG_8673.PNG)
