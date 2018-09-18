@@ -6,7 +6,7 @@ This is a sample app with the following features :
 * Gives the current location in both longitude and latitude
 * Displays the current date and time
 
-To run the application, 
+To run the application on a device :
 
 * clone the repository
 * Open the project in xcode
